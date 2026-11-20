@@ -19,7 +19,7 @@ I designed and built the iPhone application, from the interaction model and visu
 
 **Status:** Working iPhone app, submitted for App Store review.
 
-[Explore prmpt.](https://barbarakprokop.com/prmpt/)
+[Explore prmpt.](https://barbarakprokop.com/prmpt/) · [Architecture and tested code examples](https://github.com/barbarakprokop/prmpt-ai-cooking-lab)
 
 ### JointLift
 
