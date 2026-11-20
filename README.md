@@ -49,7 +49,7 @@ I redesigned a process that previously took two to three days, first using n8n a
 
 The target preparation time is approximately one to two hours. Missing information is flagged for human review rather than invented by AI.
 
-[View case study](https://barbarakprokop.com/productdesign/case-study-manual-generator/)
+[View case study](https://barbarakprokop.com/productdesign/case-study-manual-generator/) · [Architecture and tested code examples](https://github.com/barbarakprokop/manual-generator-workflow)
 
 ### Agent Studio
 
