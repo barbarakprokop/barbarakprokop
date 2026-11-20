@@ -53,13 +53,13 @@ The target preparation time is approximately one to two hours. Missing informati
 
 ### Agent Studio
 
-A multi-agent editorial system built around five distinct roles: Idea Partner, Researcher, Creative Director, Writer and Editor.
+A multi-agent editorial system designed around a Creative Director coordinating three specialist agents: Researcher, Writer and Editor.
 
-I designed and implemented the workflow to explore how specialized agents can collaborate while keeping editorial judgment and important decisions with people.
+I designed the orchestration, structured handoffs and human approval boundaries. The Creative Director and Researcher path was verified in Phase 1; drafting and editing were configured for a later gated phase.
 
-**Status:** Working system in active development.
+**Status:** Working Phase 1, with the wider system in development.
 
-[View case study](https://barbarakprokop.com/productdesign/agent-studio-case-study/)
+[View case study](https://barbarakprokop.com/productdesign/agent-studio-case-study/) · [Explore the architecture and synthetic n8n demo](https://github.com/barbarakprokop/agent-studio-workflow)
 
 ## What I work with
 
