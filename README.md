@@ -29,7 +29,7 @@ I designed and built the iOS MVP using React Native, Expo, TypeScript and Supaba
 
 **Status:** Working MVP, approved for external TestFlight testing.
 
-[View case study](https://barbarakprokop.com/productdesign/jointlift/)
+[View case study](https://barbarakprokop.com/productdesign/jointlift/) · [Architecture and tested code examples](https://github.com/barbarakprokop/jointlift-app-architecture)
 
 ### Concrete Sets
 
