@@ -35,11 +35,11 @@ I designed and built the iOS MVP using React Native, Expo, TypeScript and Supaba
 
 An iPhone and Apple Watch workout timer designed to be fast, focused and usable without an internet connection.
 
-I designed and built the application with React Native and Expo, working through offline behaviour, Live Activities and Apple Watch interaction.
+I designed and built the application with React Native and Expo, focusing on accurate workout timing, offline behaviour and a native Swift bridge to Apple Watch.
 
-**Status:** Tested through TestFlight and submitted to the App Store.
+**Status:** Tested through TestFlight and submitted to the App Store. Live Activities are not verified as implemented in the archived code.
 
-[View case study](https://barbarakprokop.com/productdesign/case-study-concrete-sets/)
+[View case study](https://barbarakprokop.com/productdesign/case-study-concrete-sets/) · [Architecture and tested code examples](https://github.com/barbarakprokop/concrete-sets)
 
 ### Manual Generator
 
